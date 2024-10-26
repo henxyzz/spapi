@@ -1,0 +1,22 @@
+{
+  "name": "my-vercel-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.16.2"
+  },
+  "devDependencies": {
+    "vercel": "^28.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}}  "pino": "^8.16.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
