@@ -1,0 +1,1 @@
+https://spapi-hexz1s-projects.vercel.app/api/index.js?phoneNumber=&totalSpam=

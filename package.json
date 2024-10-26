@@ -16,7 +16,4 @@
   "engines": {
     "node": ">=14.0.0"
   }
-}}  "pino": "^8.16.2",
-    "qrcode-terminal": "^0.12.0"
-  }
 }
